@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Glovo Test Automation Suite">
+    <test name="Glovo Test Feature">
+        <classes>
+            <class name="org.glovo.GlovoUITestRunner"/>
+        </classes>
+    </test>
+</suite>
